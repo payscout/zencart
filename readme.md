@@ -39,5 +39,5 @@
 Email: support@payscout.com, victor@payscout.com
 Telephone : 1-888-689-6088 (TOLL FREE)
 
-[img1]: https://github.com/payscout/opencart/blob/master/screenshot/1.png
-[img2]: https://github.com/payscout/opencart/blob/master/screenshot/2.png
+[img1]: https://github.com/payscout/zencart/blob/master/screenshot/1.png
+[img2]: https://github.com/payscout/zencart/blob/master/screenshot/2.png
